@@ -1,4 +1,5 @@
-Feature list:
+## Feature list:
+
 Registracija i prijava korisnika:
 	MVP:
 	- (5 bod.) Registracija i login preko klasične forme
@@ -34,5 +35,5 @@ Interakcija korisnika:
 	Dodatno:
 	- (10 bod.) Tagiranje korisnika u svojim statusima (@korisnik)
 	- (10 bod.) Notifikacije kada ti netko heart-a status
-	- (10 bod.) Shareanje tuđih statusa
+	- (10 bod.) Shareanje tuđih statusa  
 
